@@ -1,0 +1,9 @@
+{
+    "name": "old-node-test",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "express": "3.11.0",
+        "pdfkit": "0.6.0"
+    }
+}
